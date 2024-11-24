@@ -8,9 +8,9 @@ I will be making a web application that will have a display of an f1 car control
   -make the layout for the code and make sure I can do the basics like making the car spin 
 
 # Week 3 
-- incoporate special featiures
+  -incoporate special features
 
 # Week 4 
--Makse sure it all works as planned
+  -Make sure it all works as planned
 
 I inted to use Three.js and JavaScript
